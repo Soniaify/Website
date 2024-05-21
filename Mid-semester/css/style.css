@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    background-color: gray;
+    display: flex;
+    height: 90px;
+    padding-top: 60px;
+    text-align: center;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    border: 2px solid black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.gallery{
+    border: 2px solid black;
+    background-color: aquamarine;
+    height: 300px;
+    padding-top: 60px;
+}
+.button{
+    margin-left: 48%;
+    border: 2px solid black;
+    width: 120px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+}
+.text{
+    background-color: transparent;
+    text-align: center;
+    align-items: center;
+    padding-top: 100px;
+    height: 300px;
+    font-size: 20px;
+    border: 2px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.coding{
+    display: flex;
+    height: 280px;
+    padding-top: 80px;
+    background-color: bisque;
+    border: 2px solid black;
+}
+.one{
+    border: 2px solid black;
+    height: 100px;
+    width: 250px;
+    padding-top: 40px;
+    margin-right: 140px;
+    text-align: center;
+}
+.two{
+    border: 2px solid black;
+    height: 100px;
+    width: 250px;
+    padding-top: 40px;
+    margin-right: 140px;
+    text-align: center;
+}
+.three{
+    border: 2px solid black;
+    height: 100px;
+    width: 250px;
+    margin-right: 140px;
+    padding-top: 40px;
+    text-align: center;
+}
+.four{
+    border: 2px solid black;
+    height: 100px;
+    width: 250px;
+    padding-top: 40px;
+    margin-right: 140px;
+    top: 10px;
+    text-align: center;
+}
